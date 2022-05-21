@@ -6,8 +6,6 @@ Dieses Projekt basiert auf dem Framework Vaadin und kann mittels des Webservers 
 
 Um direkt von Github darauf zuzugreifen, klonen Sie das Repository und importieren Sie das Projekt in die IDE Ihrer Wahl als Maven-Projekt. Sie müssen Java 16 haben.
 
-Für den ersten Start emphielt es zunächst ein `mvn clean:install` auszuführen
-
 ### Maven-Setup
 Starten Sie mit `mvn jetty:run` und öffnen Sie [http://localhost:8080](http://localhost:8080) im Browser.
 
